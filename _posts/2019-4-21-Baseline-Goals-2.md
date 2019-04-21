@@ -3,8 +3,6 @@ layout: post
 title: Baseline Goals
 ---
 
-<br/>
-
 | What | Why | How | Testing |
 |-------|--------|---------|---------|
 | Digital Monitoring | To provide<br/>feedback to<br/>medical<br/>professionals | Pressure sensor on<br/>a tube, displaying<br/>on a LCD | Larger tube to be the<br/>trachea, place a breathing<br/>tube inside, try to use<br/>device to read pressure.<br/>Compare with current<br/>accepted measurement<br/>methods |
