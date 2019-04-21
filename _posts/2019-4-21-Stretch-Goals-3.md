@@ -1,9 +1,7 @@
 ---
 layout: post
-title: Baseline Goals
+title: Stretch Goals
 ---
-
-<br/>
 
 | What | Why | How | Testing |
 |-------|--------|---------|---------|
